@@ -1,5 +1,6 @@
 # RSIM Research Intelligence and Statistical Information Management System
 <img width="600" height="300" alt="RISM photo" src="https://github.com/user-attachments/assets/a381deb6-25be-4dfe-83ba-90df91e4c4b0" />
+<img width="638" height="480" alt="III" src="https://github.com/user-attachments/assets/ec6090ab-ef1d-4793-b8e5-4df6566e459b" />
 
 
 RSIM reporting system , analyses mid year and end of year reports by removing manual reporting processes to improve  institutional reporting efficiency, strengthen data accuracy and accessibility, and establish a central repository of reliable information to support research, monitoring and evidence-based decision-making within the Ministry. 
